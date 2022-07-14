@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LiftedAquatic
-- 👀 I’m interested in data, stats, cognition, markets, music
-- 🌱 I’m currently learning python, statistics 
-- 💞️ I’m looking to collaborate on projects for my education
+- 👋 Hi, I’m Spencer
+- 👀 I’m interested in ML, music, art, stats, puzzles 
+- 🌱 I’m currently building a trading bot 
+- 💞️ I’m looking to share my work 
 - 📫 How to reach me brianspencerbiz@gmail.com
 
 <!---

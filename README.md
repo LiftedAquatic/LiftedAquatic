@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, music, art, stats, puzzles 
 - 🌱 I’m currently building a trading bot 
 - 💞️ I’m looking to share my work 
-- 📫 How to reach me brianspencerbiz@gmail.com
+- 📫 How to reach me spencerbgoble@gmail.com
 
 <!---
 LiftedAquatic/LiftedAquatic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
